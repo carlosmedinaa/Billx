@@ -1,0 +1,13 @@
+# Bases de datos reales y backups
+*.db
+*.csv
+backups/
+
+# Archivos de caché de Python (que veo en tu captura)
+__pycache__/
+build/
+dist/
+# Secretos y logs
+.env
+*.log
+billx_backup_*.sql
